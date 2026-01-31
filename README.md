@@ -9,7 +9,7 @@ Inspired by the concept of *Gaia* — Earth as a living system — this project 
 ## 🚀 Live Website
 
 🔗 **Live Demo:**  
-> _Coming soon — will be added after deployment_
+https://gaia-climate-xi.vercel.app/
 
 ---
 
@@ -39,8 +39,6 @@ Inspired by the concept of *Gaia* — Earth as a living system — this project 
 ---
 
 ## 📁 Project Structure
-
-```txt
 gaia-climate-education/
 ├── components/        # Reusable UI components
 ├── public/            # Static assets (favicon, icons)
@@ -57,25 +55,15 @@ Gaia comes from Greek mythology and represents Mother Earth.
 In modern environmental science, the Gaia Hypothesis views Earth as a self-regulating living system, making this name a perfect symbol for a climate education platform.
 ⚙️ Installation & Setup
 Clone the repository:
-Copy code
-Bash
 git clone https://github.com/fr45201-collab/gaia-climate-education.git
 Navigate into the project folder:
-Copy code
-Bash
 cd gaia-climate-education
 Install dependencies:
-Copy code
-Bash
 npm install
 Run the development server:
-Copy code
-Bash
 npm run dev
 Open in browser:
-Copy code
-Txt
-http://localhost:3000
+https://gaia-climate-xi.vercel.app/
 📌 Future Improvements
 🌐 Live deployment (Vercel / Netlify)
 📱 Full mobile optimization
